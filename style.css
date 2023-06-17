@@ -1,0 +1,13 @@
+h1,
+ul {
+    font-family: "DejaVu Sans";
+}
+
+.chef-image {
+    width: 400px;
+    height: auto
+}
+
+body {
+    background-color: bisque;
+}
