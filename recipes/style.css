@@ -1,0 +1,16 @@
+h1,
+h2,
+p,
+ul,
+ol {
+    font-family: "DejaVu Sans";
+}
+
+.food-image {
+    width: 300px;
+    height: auto
+}
+
+body {
+    background-color: bisque;
+}
